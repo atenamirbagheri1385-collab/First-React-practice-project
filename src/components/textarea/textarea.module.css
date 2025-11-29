@@ -1,0 +1,12 @@
+
+.Textareawrapper label{
+    text-align: right;
+    margin-bottom: 5px;
+    display: block;
+}
+.Textareawrapper textarea{
+    width: 100%;
+    min-height: 200px;
+    border: 1px solid #ccc;
+    text-align: start;
+}

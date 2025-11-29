@@ -1,0 +1,23 @@
+.articlePage h3{
+    text-align: right;
+    margin: 40px 0px ;
+}
+.articlePageData{
+   justify-content: end;
+margin-bottom: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.articlePageData span{
+    margin-left: 10px;
+}
+.articlePage img{
+    display:flex;
+    width: 75%;
+    margin-top: 40px;
+    margin-left: 200px;
+}
+.articlePage p{
+    direction: rtl;
+    margin-top: 40px;
+}
